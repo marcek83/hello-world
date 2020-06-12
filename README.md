@@ -1,4 +1,3 @@
-# hello-world
-First repository
+# WIDS_2019_Workshop_Doc2Vec
+This project was a part of a presentation at Women in Data Science Conference in London 2019. Doc2Vec and bokeh libraties were presented 
 
-this is a trial to get my head over what it is. Hopefully in 2 yrs time i will be using it every day:)
